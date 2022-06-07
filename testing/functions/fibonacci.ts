@@ -13,7 +13,6 @@ export const fibonacci = (nums: number) => {
 }
 
 
-
 export const fibonacciNumbers = [
     0,
     1,
